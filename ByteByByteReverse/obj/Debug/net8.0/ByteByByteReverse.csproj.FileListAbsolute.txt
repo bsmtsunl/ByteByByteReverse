@@ -1,0 +1,14 @@
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\bin\Debug\net8.0\ByteByByteReverse.exe
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\bin\Debug\net8.0\ByteByByteReverse.deps.json
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\bin\Debug\net8.0\ByteByByteReverse.runtimeconfig.json
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\bin\Debug\net8.0\ByteByByteReverse.dll
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\bin\Debug\net8.0\ByteByByteReverse.pdb
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\obj\Debug\net8.0\ByteByByteReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\obj\Debug\net8.0\ByteByByteReverse.AssemblyInfoInputs.cache
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\obj\Debug\net8.0\ByteByByteReverse.AssemblyInfo.cs
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\obj\Debug\net8.0\ByteByByteReverse.csproj.CoreCompileInputs.cache
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\obj\Debug\net8.0\ByteByByteReverse.dll
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\obj\Debug\net8.0\refint\ByteByByteReverse.dll
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\obj\Debug\net8.0\ByteByByteReverse.pdb
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\obj\Debug\net8.0\ByteByByteReverse.genruntimeconfig.cache
+D:\Program Files\Rider\Projects\ByteByByteReverse\ByteByByteReverse\obj\Debug\net8.0\ref\ByteByByteReverse.dll
